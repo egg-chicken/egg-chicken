@@ -1,6 +1,9 @@
-# Welcome to my profile :)
-##
-<!-- I am an aspiring software engineer. -->
+# Hi, I'm Edith. Welcome to my profile 🌲
+
+- 🔭 I’m currently working on a web app designed to inspire others to go outside. 
+- 🌱 I’m currently learning python.
+- 💬 Ask me about my current progress on my web app and my favorite hiking locations!
+- 📫 How to reach me: ggarcia.edith@gmail.com 
 
 <!--
 <a href="https://github.com/egg-chicken/egg-chicken">
@@ -14,7 +17,7 @@
 </a>
 -->
 <!--
-**egg-chicken/egg-chicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <--
 Here are some ideas to get you started:
 
@@ -35,3 +38,13 @@ Here are some ideas to get you started:
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="left" alt="react" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="left" alt="sequelize" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />
+<img align="left" alt="sqlite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
+          
+          
