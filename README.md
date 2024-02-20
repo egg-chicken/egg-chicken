@@ -5,7 +5,6 @@
 - 💬 Ask me about my current progress on my web app and my favorite hiking locations!
 - 📫 How to reach me: ggarcia.edith@gmail.com 
 
-![Edith's GitHub stats](https://github-readme-stats.vercel.app/api?username=egg-chicken&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egg-chicken&layout=compact&theme=transparent)
 <!--
 <a href="https://github.com/egg-chicken/egg-chicken">
